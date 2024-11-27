@@ -3,5 +3,5 @@
 x=a+b
 y=a-b
 
-solve x-y
+solve x-y & x+y
 
